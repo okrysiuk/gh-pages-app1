@@ -1,5 +1,6 @@
 {
   "name": "gh-pages-app1",
+  "homepage": "https://okrysiuk.github.io/gh-pages-app1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
